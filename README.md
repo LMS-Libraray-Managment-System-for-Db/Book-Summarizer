@@ -1,2 +1,12 @@
-# Book-Summarizer
-An Application that extracts and summarizes text from BOOKs using advanced NLP models. Built with Flask, PyPDF2, and Hugging Face's pre-trained models.
+# PDF Summarizer
+
+This project is a web application that allows users to upload PDF files and get a summarized version of the text content. The application uses a pre-trained model from Hugging Face for text summarization.
+
+## Features
+
+- Upload PDF files
+- Extract text from PDF
+- Summarize the extracted text using a pre-trained model
+
+## Project Structure
+
